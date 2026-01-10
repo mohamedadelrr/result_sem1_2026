@@ -1,0 +1,655 @@
+{
+  "metadata": {
+    "system_name": "نظام إدارة شرق التعليمية",
+    "version": "4.0",
+    "last_updated": "2026-03-15",
+    "academic_year": "2025/2026",
+    "semester": "الثاني",
+    "admin_name": "د. أمل العاصي",
+    "admin_title": "مدير مرحلة المدارس الرسمية لغات",
+    "description": "بيانات المدارس والنتائج التجريبية - إدارة شرق التعليمية"
+  },
+  "schools": [
+    {
+      "id": "EAST001",
+      "name": "مدرسة أحمد زويل الرسمية لغات",
+      "headofconrol": "أ/ عادل حسين",
+      "headofschool": "أ/ محمد السيد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 45,
+          "present": 43,
+          "absent": 2,
+          "passed": 20,
+          "retake": 23,
+          "percentage": 92.0
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 48,
+          "present": 47,
+          "absent": 1,
+          "passed": 44,
+          "retake": 3,
+          "percentage": 93.6
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 50,
+          "present": 48,
+          "absent": 2,
+          "passed": 46,
+          "retake": 2,
+          "percentage": 95.8
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 0,
+          "present": 0,
+          "absent": 0,
+          "passed": 0,
+          "retake": 0,
+          "percentage": 0
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 0,
+          "present": 0,
+          "absent": 0,
+          "passed": 0,
+          "retake": 0,
+          "percentage": 0
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 0,
+          "present": 0,
+          "absent": 0,
+          "passed": 0,
+          "retake": 0,
+          "percentage": 0
+        }
+      ],
+      "notes": "مدرسة ممتازة في الأداء - تحتاج لتركيب تكييفات في الفصول"
+    },
+    {
+      "id": "EAST002",
+      "name": "مدرسة النصر الرسمية لغات",
+      "headofconrol": "أ/ محمود عبد الرحمن",
+      "headofschool": "أ/ أحمد محمد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 42,
+          "present": 40,
+          "absent": 2,
+          "passed": 38,
+          "retake": 2,
+          "percentage": 95.0
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 44,
+          "present": 43,
+          "absent": 1,
+          "passed": 40,
+          "retake": 3,
+          "percentage": 93.0
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 46,
+          "present": 45,
+          "absent": 1,
+          "passed": 43,
+          "retake": 2,
+          "percentage": 95.6
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 40,
+          "present": 39,
+          "absent": 1,
+          "passed": 37,
+          "retake": 2,
+          "percentage": 94.9
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 38,
+          "present": 37,
+          "absent": 1,
+          "passed": 35,
+          "retake": 2,
+          "percentage": 94.6
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 0,
+          "present": 0,
+          "absent": 0,
+          "passed": 0,
+          "retake": 0,
+          "percentage": 0
+        }
+      ],
+      "notes": "أداء متميز - تحتاج إلى توفير معامل علوم حديثة"
+    },
+    {
+      "id": "EAST003",
+      "name": "مدرسة السلام الرسمية لغات",
+      "headofconrol": "أ/ نادية أحمد",
+      "headofschool": "أ/ فتحي محمد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 38,
+          "present": 36,
+          "absent": 2,
+          "passed": 30,
+          "retake": 6,
+          "percentage": 83.3
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 40,
+          "present": 38,
+          "absent": 2,
+          "passed": 32,
+          "retake": 6,
+          "percentage": 84.2
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 42,
+          "present": 40,
+          "absent": 2,
+          "passed": 34,
+          "retake": 6,
+          "percentage": 85.0
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 36,
+          "present": 34,
+          "absent": 2,
+          "passed": 28,
+          "retake": 6,
+          "percentage": 82.4
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 34,
+          "present": 32,
+          "absent": 2,
+          "passed": 26,
+          "retake": 6,
+          "percentage": 81.3
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 32,
+          "present": 30,
+          "absent": 2,
+          "passed": 24,
+          "retake": 6,
+          "percentage": 80.0
+        }
+      ],
+      "notes": "تحتاج إلى دعم إضافي للطلاب - نسبة دور ثان مرتفعة"
+    },
+    {
+      "id": "EAST004",
+      "name": "مدرسة المستقبل الرسمية لغات",
+      "headofconrol": "أ/ لينا محمد",
+      "headofschool": "أ/ هاني محمود",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 35,
+          "present": 34,
+          "absent": 1,
+          "passed": 30,
+          "retake": 4,
+          "percentage": 88.2
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 36,
+          "present": 35,
+          "absent": 1,
+          "passed": 31,
+          "retake": 4,
+          "percentage": 88.6
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 38,
+          "present": 37,
+          "absent": 1,
+          "passed": 33,
+          "retake": 4,
+          "percentage": 89.2
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 34,
+          "present": 33,
+          "absent": 1,
+          "passed": 29,
+          "retake": 4,
+          "percentage": 87.9
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 32,
+          "present": 31,
+          "absent": 1,
+          "passed": 27,
+          "retake": 4,
+          "percentage": 87.1
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 30,
+          "present": 29,
+          "absent": 1,
+          "passed": 25,
+          "retake": 4,
+          "percentage": 86.2
+        }
+      ],
+      "notes": "مدرسة حديثة - تحتاج إلى مزيد من الأنشطة اللاصفية"
+    },
+    {
+      "id": "EAST005",
+      "name": "مدرسة الفاروق الرسمية لغات",
+      "headofconrol": "أ/ زينب أحمد",
+      "headofschool": "أ/ عثمان محمد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 44,
+          "present": 43,
+          "absent": 1,
+          "passed": 40,
+          "retake": 3,
+          "percentage": 93.0
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 46,
+          "present": 45,
+          "absent": 1,
+          "passed": 42,
+          "retake": 3,
+          "percentage": 93.3
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 48,
+          "present": 47,
+          "absent": 1,
+          "passed": 44,
+          "retake": 3,
+          "percentage": 93.6
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 42,
+          "present": 41,
+          "absent": 1,
+          "passed": 38,
+          "retake": 3,
+          "percentage": 92.7
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 40,
+          "present": 39,
+          "absent": 1,
+          "passed": 36,
+          "retake": 3,
+          "percentage": 92.3
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 38,
+          "present": 37,
+          "absent": 1,
+          "passed": 34,
+          "retake": 3,
+          "percentage": 91.9
+        }
+      ],
+      "notes": "أداء متزايد باستمرار - تحتاج إلى توسعة المكتبة"
+    },
+    {
+      "id": "EAST006",
+      "name": "مدرسة الأمل الرسمية لغات",
+      "headofconrol": "أ/ ماهر أحمد",
+      "headofschool": "أ/ سعاد محمد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 36,
+          "present": 35,
+          "absent": 1,
+          "passed": 30,
+          "retake": 5,
+          "percentage": 85.7
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 38,
+          "present": 37,
+          "absent": 1,
+          "passed": 32,
+          "retake": 5,
+          "percentage": 86.5
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 40,
+          "present": 39,
+          "absent": 1,
+          "passed": 34,
+          "retake": 5,
+          "percentage": 87.2
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 34,
+          "present": 33,
+          "absent": 1,
+          "passed": 28,
+          "retake": 5,
+          "percentage": 84.8
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 32,
+          "present": 31,
+          "absent": 1,
+          "passed": 26,
+          "retake": 5,
+          "percentage": 83.9
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 30,
+          "present": 29,
+          "absent": 1,
+          "passed": 24,
+          "retake": 5,
+          "percentage": 82.8
+        }
+      ],
+      "notes": "تحتاج إلى تحسين الأداء - نسبة نجاح مقبولة"
+    },
+    {
+      "id": "EAST007",
+      "name": "مدرسة الرحمة الرسمية لغات",
+      "headofconrol": "أ/ مريم أحمد",
+      "headofschool": "أ/ عبد الله محمد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 32,
+          "present": 31,
+          "absent": 1,
+          "passed": 28,
+          "retake": 3,
+          "percentage": 90.3
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 34,
+          "present": 33,
+          "absent": 1,
+          "passed": 30,
+          "retake": 3,
+          "percentage": 90.9
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 36,
+          "present": 35,
+          "absent": 1,
+          "passed": 32,
+          "retake": 3,
+          "percentage": 91.4
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 30,
+          "present": 29,
+          "absent": 1,
+          "passed": 26,
+          "retake": 3,
+          "percentage": 89.7
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 28,
+          "present": 27,
+          "absent": 1,
+          "passed": 24,
+          "retake": 3,
+          "percentage": 88.9
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 26,
+          "present": 25,
+          "absent": 1,
+          "passed": 22,
+          "retake": 3,
+          "percentage": 88.0
+        }
+      ],
+      "notes": "مدرسة حديثة - أداء جيد لكن تحتاج لمزيد من التطوير"
+    },
+    {
+      "id": "EAST008",
+      "name": "مدرسة النهضة الرسمية لغات",
+      "headofconrol": "أ/ سحر محمد",
+      "headofschool": "أ/ محسن أحمد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 39,
+          "present": 38,
+          "absent": 1,
+          "passed": 35,
+          "retake": 3,
+          "percentage": 92.1
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 41,
+          "present": 40,
+          "absent": 1,
+          "passed": 37,
+          "retake": 3,
+          "percentage": 92.5
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 43,
+          "present": 42,
+          "absent": 1,
+          "passed": 39,
+          "retake": 3,
+          "percentage": 92.9
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 37,
+          "present": 36,
+          "absent": 1,
+          "passed": 33,
+          "retake": 3,
+          "percentage": 91.7
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 35,
+          "present": 34,
+          "absent": 1,
+          "passed": 31,
+          "retake": 3,
+          "percentage": 91.2
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 33,
+          "present": 32,
+          "absent": 1,
+          "passed": 29,
+          "retake": 3,
+          "percentage": 90.6
+        }
+      ],
+      "notes": "مدرسة ممتازة في الأداء - تحتاج إلى صيانة دورية للمباني"
+    },
+    {
+      "id": "EAST009",
+      "name": "مدرسة العبور الرسمية لغات",
+      "headofconrol": "أ/ هناء أحمد",
+      "headofschool": "أ/ طارق محمد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 37,
+          "present": 36,
+          "absent": 1,
+          "passed": 31,
+          "retake": 5,
+          "percentage": 86.1
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 39,
+          "present": 38,
+          "absent": 1,
+          "passed": 33,
+          "retake": 5,
+          "percentage": 86.8
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 41,
+          "present": 40,
+          "absent": 1,
+          "passed": 35,
+          "retake": 5,
+          "percentage": 87.5
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 35,
+          "present": 34,
+          "absent": 1,
+          "passed": 29,
+          "retake": 5,
+          "percentage": 85.3
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 33,
+          "present": 32,
+          "absent": 1,
+          "passed": 27,
+          "retake": 5,
+          "percentage": 84.4
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 31,
+          "present": 30,
+          "absent": 1,
+          "passed": 25,
+          "retake": 5,
+          "percentage": 83.3
+        }
+      ],
+      "notes": "تحتاج إلى دعم تعليمي - نسبة دور ثان مرتفعة قليلاً"
+    },
+    {
+      "id": "EAST010",
+      "name": "مدرسة العلم الرسمية لغات",
+      "headofconrol": "أ/ علي حسن",
+      "headofschool": "أ/ فاطمة محمد",
+      "classes": [
+        {
+          "name": "الصف الأول الإعدادي",
+          "registered": 41,
+          "present": 40,
+          "absent": 1,
+          "passed": 37,
+          "retake": 3,
+          "percentage": 92.5
+        },
+        {
+          "name": "الصف الثاني الإعدادي",
+          "registered": 43,
+          "present": 42,
+          "absent": 1,
+          "passed": 39,
+          "retake": 3,
+          "percentage": 92.9
+        },
+        {
+          "name": "الصف الثالث الإعدادي",
+          "registered": 45,
+          "present": 44,
+          "absent": 1,
+          "passed": 41,
+          "retake": 3,
+          "percentage": 93.2
+        },
+        {
+          "name": "الصف الرابع الإعدادي",
+          "registered": 39,
+          "present": 38,
+          "absent": 1,
+          "passed": 35,
+          "retake": 3,
+          "percentage": 92.1
+        },
+        {
+          "name": "الصف الخامس الإعدادي",
+          "registered": 37,
+          "present": 36,
+          "absent": 1,
+          "passed": 33,
+          "retake": 3,
+          "percentage": 91.7
+        },
+        {
+          "name": "الصف السادس الإعدادي",
+          "registered": 35,
+          "present": 34,
+          "absent": 1,
+          "passed": 31,
+          "retake": 3,
+          "percentage": 91.2
+        }
+      ],
+      "notes": "مدرسة متميزة - تحتاج إلى تطوير الملاعب الرياضية"
+    }
+  ],
+  "statistics": {
+    "total_schools": 10,
+    "total_classes": 60,
+    "total_registered": 2164,
+    "total_present": 2107,
+    "total_absent": 57,
+    "total_passed": 1885,
+    "total_retake": 222,
+    "attendance_rate": 97.4,
+    "overall_success_rate": 89.5
+  }
+}
