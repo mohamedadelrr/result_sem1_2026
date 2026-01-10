@@ -17,7 +17,7 @@
       "headofschool": "أ/ محمد السيد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 45,
           "present": 43,
           "absent": 2,
@@ -26,7 +26,7 @@
           "percentage": 92.0
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 48,
           "present": 47,
           "absent": 1,
@@ -35,7 +35,7 @@
           "percentage": 93.6
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 50,
           "present": 48,
           "absent": 2,
@@ -44,7 +44,7 @@
           "percentage": 95.8
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 0,
           "present": 0,
           "absent": 0,
@@ -53,7 +53,7 @@
           "percentage": 0
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 0,
           "present": 0,
           "absent": 0,
@@ -62,7 +62,7 @@
           "percentage": 0
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 0,
           "present": 0,
           "absent": 0,
@@ -80,7 +80,7 @@
       "headofschool": "أ/ أحمد محمد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 42,
           "present": 40,
           "absent": 2,
@@ -89,7 +89,7 @@
           "percentage": 95.0
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 44,
           "present": 43,
           "absent": 1,
@@ -98,7 +98,7 @@
           "percentage": 93.0
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 46,
           "present": 45,
           "absent": 1,
@@ -107,7 +107,7 @@
           "percentage": 95.6
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 40,
           "present": 39,
           "absent": 1,
@@ -116,7 +116,7 @@
           "percentage": 94.9
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 38,
           "present": 37,
           "absent": 1,
@@ -125,7 +125,7 @@
           "percentage": 94.6
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 0,
           "present": 0,
           "absent": 0,
@@ -143,7 +143,7 @@
       "headofschool": "أ/ فتحي محمد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 38,
           "present": 36,
           "absent": 2,
@@ -152,7 +152,7 @@
           "percentage": 83.3
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 40,
           "present": 38,
           "absent": 2,
@@ -161,7 +161,7 @@
           "percentage": 84.2
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 42,
           "present": 40,
           "absent": 2,
@@ -170,7 +170,7 @@
           "percentage": 85.0
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 36,
           "present": 34,
           "absent": 2,
@@ -179,7 +179,7 @@
           "percentage": 82.4
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 34,
           "present": 32,
           "absent": 2,
@@ -188,7 +188,7 @@
           "percentage": 81.3
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 32,
           "present": 30,
           "absent": 2,
@@ -206,7 +206,7 @@
       "headofschool": "أ/ هاني محمود",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 35,
           "present": 34,
           "absent": 1,
@@ -215,7 +215,7 @@
           "percentage": 88.2
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 36,
           "present": 35,
           "absent": 1,
@@ -224,7 +224,7 @@
           "percentage": 88.6
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 38,
           "present": 37,
           "absent": 1,
@@ -233,7 +233,7 @@
           "percentage": 89.2
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 34,
           "present": 33,
           "absent": 1,
@@ -242,7 +242,7 @@
           "percentage": 87.9
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 32,
           "present": 31,
           "absent": 1,
@@ -251,7 +251,7 @@
           "percentage": 87.1
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 30,
           "present": 29,
           "absent": 1,
@@ -269,7 +269,7 @@
       "headofschool": "أ/ عثمان محمد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 44,
           "present": 43,
           "absent": 1,
@@ -278,7 +278,7 @@
           "percentage": 93.0
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 46,
           "present": 45,
           "absent": 1,
@@ -287,7 +287,7 @@
           "percentage": 93.3
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 48,
           "present": 47,
           "absent": 1,
@@ -296,7 +296,7 @@
           "percentage": 93.6
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 42,
           "present": 41,
           "absent": 1,
@@ -305,7 +305,7 @@
           "percentage": 92.7
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 40,
           "present": 39,
           "absent": 1,
@@ -314,7 +314,7 @@
           "percentage": 92.3
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 38,
           "present": 37,
           "absent": 1,
@@ -332,7 +332,7 @@
       "headofschool": "أ/ سعاد محمد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 36,
           "present": 35,
           "absent": 1,
@@ -341,7 +341,7 @@
           "percentage": 85.7
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 38,
           "present": 37,
           "absent": 1,
@@ -350,7 +350,7 @@
           "percentage": 86.5
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 40,
           "present": 39,
           "absent": 1,
@@ -359,7 +359,7 @@
           "percentage": 87.2
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 34,
           "present": 33,
           "absent": 1,
@@ -368,7 +368,7 @@
           "percentage": 84.8
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 32,
           "present": 31,
           "absent": 1,
@@ -377,7 +377,7 @@
           "percentage": 83.9
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 30,
           "present": 29,
           "absent": 1,
@@ -395,7 +395,7 @@
       "headofschool": "أ/ عبد الله محمد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 32,
           "present": 31,
           "absent": 1,
@@ -404,7 +404,7 @@
           "percentage": 90.3
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 34,
           "present": 33,
           "absent": 1,
@@ -413,7 +413,7 @@
           "percentage": 90.9
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 36,
           "present": 35,
           "absent": 1,
@@ -422,7 +422,7 @@
           "percentage": 91.4
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 30,
           "present": 29,
           "absent": 1,
@@ -431,7 +431,7 @@
           "percentage": 89.7
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 28,
           "present": 27,
           "absent": 1,
@@ -440,7 +440,7 @@
           "percentage": 88.9
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 26,
           "present": 25,
           "absent": 1,
@@ -458,7 +458,7 @@
       "headofschool": "أ/ محسن أحمد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 39,
           "present": 38,
           "absent": 1,
@@ -467,7 +467,7 @@
           "percentage": 92.1
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 41,
           "present": 40,
           "absent": 1,
@@ -476,7 +476,7 @@
           "percentage": 92.5
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 43,
           "present": 42,
           "absent": 1,
@@ -485,7 +485,7 @@
           "percentage": 92.9
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 37,
           "present": 36,
           "absent": 1,
@@ -494,7 +494,7 @@
           "percentage": 91.7
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 35,
           "present": 34,
           "absent": 1,
@@ -503,7 +503,7 @@
           "percentage": 91.2
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 33,
           "present": 32,
           "absent": 1,
@@ -521,7 +521,7 @@
       "headofschool": "أ/ طارق محمد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 37,
           "present": 36,
           "absent": 1,
@@ -530,7 +530,7 @@
           "percentage": 86.1
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 39,
           "present": 38,
           "absent": 1,
@@ -539,7 +539,7 @@
           "percentage": 86.8
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 41,
           "present": 40,
           "absent": 1,
@@ -548,7 +548,7 @@
           "percentage": 87.5
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 35,
           "present": 34,
           "absent": 1,
@@ -557,7 +557,7 @@
           "percentage": 85.3
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 33,
           "present": 32,
           "absent": 1,
@@ -566,7 +566,7 @@
           "percentage": 84.4
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 31,
           "present": 30,
           "absent": 1,
@@ -584,7 +584,7 @@
       "headofschool": "أ/ فاطمة محمد",
       "classes": [
         {
-          "name": "الصف الأول الإعدادي",
+          "name": "الصف الأول الابتدائي",
           "registered": 41,
           "present": 40,
           "absent": 1,
@@ -593,7 +593,7 @@
           "percentage": 92.5
         },
         {
-          "name": "الصف الثاني الإعدادي",
+          "name": "الصف الثاني الابتدائي",
           "registered": 43,
           "present": 42,
           "absent": 1,
@@ -602,7 +602,7 @@
           "percentage": 92.9
         },
         {
-          "name": "الصف الثالث الإعدادي",
+          "name": "الصف الثالث الابتدائي",
           "registered": 45,
           "present": 44,
           "absent": 1,
@@ -611,7 +611,7 @@
           "percentage": 93.2
         },
         {
-          "name": "الصف الرابع الإعدادي",
+          "name": "الصف الرابع الابتدائي",
           "registered": 39,
           "present": 38,
           "absent": 1,
@@ -620,7 +620,7 @@
           "percentage": 92.1
         },
         {
-          "name": "الصف الخامس الإعدادي",
+          "name": "الصف الخامس الابتدائي",
           "registered": 37,
           "present": 36,
           "absent": 1,
@@ -629,7 +629,7 @@
           "percentage": 91.7
         },
         {
-          "name": "الصف السادس الإعدادي",
+          "name": "الصف السادس الابتدائي",
           "registered": 35,
           "present": 34,
           "absent": 1,
